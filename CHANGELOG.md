@@ -41,7 +41,7 @@ All notable changes to this project will be documented in this file.
 
 - FEM Coupling Example #375
 
-## [2.2.0] - 2025-06-17
+## [2.2.0] - 2026-06-17
 
 ### Changed
 
@@ -52,7 +52,7 @@ All notable changes to this project will be documented in this file.
 - Logging and error handling
 - MPI multi call
 
-## [2.1.1] - 2025-06-11
+## [2.1.1] - 2026-06-11
 
 ### Added
 
@@ -71,7 +71,7 @@ All notable changes to this project will be documented in this file.
 - Logging and error handling #356
 - Newmark fixes #369
 
-## [2.1.0] - 2025-06-08
+## [2.1.0] - 2026-06-08
 
 ### Added
 
@@ -84,7 +84,7 @@ All notable changes to this project will be documented in this file.
 
 - Matrix Verlet solver fixes
 
-## [2.0.1] - 2025-03-31
+## [2.0.1] - 2026-03-31
 
 ### Changed
 
@@ -95,7 +95,7 @@ All notable changes to this project will be documented in this file.
 - MPI Synchronization for low RAM #348
 - Docker build
 
-## [2.0.0] - 2025-03-27
+## [2.0.0] - 2026-03-27
 
 ### Added
 
